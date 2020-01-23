@@ -1,0 +1,1 @@
+../../submodules/streamlink/src/streamlink/plugins/twitch.py

@@ -1,0 +1,4 @@
+[submodule "submodules/streamlink"]
+	path = submodules/streamlink
+	url = https://github.com/bastimeyer/streamlink.git
+	branch = plugins/twitch/low-latency

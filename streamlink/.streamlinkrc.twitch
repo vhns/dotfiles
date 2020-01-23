@@ -1,0 +1,12 @@
+#Get lowest latency
+hls-live-edge=1
+#Disable following hosting redirect
+twitch-disable-hosting
+#Lower latency
+twitch-low-latency
+#Disable ads
+twitch-disable-ads
+#disable re-runs
+twitch-disable-reruns
+#Disable caching
+player=mpv --no-cache
